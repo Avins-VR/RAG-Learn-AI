@@ -1,7 +1,7 @@
-# 📘 AI Learning Assistant (RAG-Based)  
-### 🔍 Groq LLaMA 3 + FAISS + Streamlit
+# 📘 RAG Learn AI– RAG Based Intelligent PDF Learning Assistant  
+### 🔍 Groq LLaMA 3 + FAISS
 
-An **AI-powered RAG (Retrieval-Augmented Generation) learning system** that helps students understand textbook content in a **simple, structured, and interactive way**.
+An **RAG Based Intelligent PDF Learning Assistant  ** that helps students understand textbook content in a **simple, structured, and interactive way**.
 
 ---
 
