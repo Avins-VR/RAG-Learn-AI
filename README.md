@@ -1,4 +1,4 @@
-# 📘 RAG Learn AI– RAG Based Intelligent PDF Learning Assistant  
+# 📘 RAG Learn AI – RAG Based Intelligent PDF Learning Assistant  
 ### 🔍 Groq LLaMA 3 + FAISS
 
 An **RAG Based Intelligent PDF Learning Assistant  ** that helps students understand textbook content in a **simple, structured, and interactive way**.
@@ -226,20 +226,42 @@ User asks a question.
 
 ---
 
-## 🔮 Future Improvements
-
-- 🔁 Self-learning feedback loop  
-- 🌐 Multi-language support  
-- 📱 Mobile UI  
-- 📊 Visual diagrams  
-
----
-
 ## 👨‍💻 Author
 
 **Avins VR**  
-📧 avins2005@gmail.com  
-🔗 https://github.com/Avins-VR  
+
+AI & Data Science Student
+
+AI/ML Developer 
+
+GitHub:
+https://github.com/Avins-VR
+
+---
+
+## 📄 License
+
+### Proprietary License – All Rights Reserved
+
+This project is proprietary and protected by copyright.
+
+✔ Viewing is permitted for educational, research, recruitment, and evaluation purposes.
+
+✔ Portfolio and academic review are permitted.
+
+❌ Copying is not permitted.
+
+❌ Modification is not permitted.
+
+❌ Redistribution is not permitted.
+
+❌ Commercial use is not permitted.
+
+❌ Reuse of the RAG implementation, retrieval workflow, prompt engineering logic, or system architecture is not permitted without written permission.
+
+Written permission from the copyright holder is required for any use beyond viewing and evaluation.
+
+© 2026 RAG Learn AI — All Rights Reserved.
 
 ---
 
