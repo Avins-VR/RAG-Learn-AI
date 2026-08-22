@@ -4,7 +4,7 @@
 An **RAG Based Intelligent PDF Learning Assistant  ** that helps students understand textbook content in a **simple, structured, and interactive way**.
 
 
-🔗 Live Demo: https://rag-learn-ai.streamlit.app
+🔗 Live Demo: https://rag-learn-ai.netlify.app
 
 ---
 
@@ -60,9 +60,11 @@ Search → Understand → Explain
         ↓
 [ Retriever ]
         ↓
-[ LLM (Groq - LLaMA 3) ]
+[ Groq (LLaMA 3) ]
         ↓
-[ Streamlit UI Output ]
+[ Structured Response ]
+        ↓
+[ React UI ]
 ```
 
 
@@ -153,8 +155,11 @@ User asks a question.
 
 ---
 
-### 🟢 13. UI Display
-- Output shown using **Streamlit**
+### 🟢 13. Response to Frontend
+- The Flask backend returns the generated response as JSON.
+
+### 🟢 14. UI Display
+- The React frontend displays the structured answer interactively.
 
 ---
 
@@ -209,10 +214,13 @@ User asks a question.
 
 ## 🛠️ Tech Stack
 
-- **LLM:** Groq (LLaMA 3)  
-- **Vector DB:** FAISS  
-- **Backend:** Python  
-- **Frontend:** Streamlit  
+- **Frontend:** React.js
+- **Backend:** Flask (Python)
+- **LLM:** Groq (LLaMA 3)
+- **Vector DB:** FAISS
+- **PDF Processing:** PyMuPDF
+- **Backend Deployment:** AWS EC2 + Gunicorn + Nginx + HTTPS (Let's Encrypt + DuckDNS)
+- **Frontend Deployment:** Netlify  
 
 ---
 
